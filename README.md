@@ -71,8 +71,12 @@ class Ibrahim:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-wine.vercel.app/api?username=m-ibraheem-isb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats-eight-wine.vercel.app/api/top-langs/?username=m-ibraheem-isb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
+![Total Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/m-ibraheem-isb&query=$.public_repos&label=Public+Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/m-ibraheem-isb?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&logoColor=white)
+
+![C++](https://img.shields.io/badge/Top%20Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117)
+![University](https://img.shields.io/badge/University-FAST%20NUCES-brightgreen?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0d1117)
 
 </div>
 
