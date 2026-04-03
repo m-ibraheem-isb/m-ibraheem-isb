@@ -25,6 +25,10 @@ class Ibrahim:
 > *"Deeply curious about how intelligence emerges — whether in silicon or synapses."*
 
 ---
+## 🎯 Current Goal
+- Build 3 machine learning projects
+- Master Python for AI
+- Secure first internship in AI/Software Engineering
 
 ## 🛠️ Tech Stack & Tools
 
