@@ -79,7 +79,7 @@ class Ibrahim:
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=m-ibraheem-isb&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)](https://github.com/m-ibraheem-isb)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m-ibraheem-isb&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)
 
 </div>
 
