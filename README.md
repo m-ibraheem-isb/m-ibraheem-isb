@@ -73,13 +73,12 @@ class Ibrahim:
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-ibraheem-isb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff)
-
-</div>
-
-<div align="center">
-
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-ibraheem-isb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&hide=contribs)
+![Top Language](https://img.shields.io/badge/Top%20Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d1117)
+![Secondary](https://img.shields.io/badge/Also%20Using-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117)
+![University](https://img.shields.io/badge/University-FAST%20NUCES-brightgreen?style=for-the-badge&logoColor=white&labelColor=0d1117)
+![Projects](https://img.shields.io/badge/Projects-5%20Completed-00d4ff?style=for-the-badge&logoColor=white&labelColor=0d1117)
+![Semester](https://img.shields.io/badge/Semester-2nd-purple?style=for-the-badge&logoColor=white&labelColor=0d1117)
 
 </div>
 
