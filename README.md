@@ -16,10 +16,11 @@
 class Ibrahim:
     university  = "FAST NUCES, Islamabad"
     degree      = "BS Artificial Intelligence (2nd Semester)"
+    roll_no     = "25I-0045"
     interests   = ["Artificial Intelligence", "Machine Learning",
                    "Low-Level Systems", "Algorithmic Problem Solving"]
     currently   = "Building cool projects & mastering CS fundamentals"
-    fun_fact    = "I solve mazes with pure recursion — no STL, no loops 😤"
+    fun_fact    = "I built a full train traffic simulator with zero classes 🚂"
 ```
 
 > *"Deeply curious about how intelligence emerges — whether in silicon or synapses."*
@@ -30,14 +31,14 @@ class Ibrahim:
 
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🤖 AI / ML Focus
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms_&_Data_Structures-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white)
-![Graph Theory](https://img.shields.io/badge/Graph_Theory-00C49A?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🎮 Graphics & Simulation
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
@@ -60,10 +61,11 @@ class Ibrahim:
 
 | 🏷️ Project | 📌 Description | 🔧 Core Concepts |
 |:----------|:-------------|:----------------|
-| 🔗 **Graph Sequence Classifier** | Classifies graph structures using discrete math principles | Graph Theory, Discrete Structures |
-| 🌀 **Word Maze Solver** | Solves word mazes using pure recursion + dynamic memory — zero STL, zero loops | Recursion, Raw Pointers, Algorithm Design |
-| 🧠 **C++ AI Study Assistant** | Neural network simulation exploring AI fundamentals from scratch | Neural Networks, C++, AI Fundamentals |
-| 🚂 **Switchback Rails** | Train traffic simulation game in C++ with SFML — manage switches, signals & collision detection in real-time | SFML Graphics, Round-Robin Scheduling, Collision Detection, Tick-Based Simulation |
+| 🚂 **[Railway Simulation C++](https://github.com/m-ibraheem-isb/railway-simulation-cpp)** | Deterministic train traffic simulation with 7-phase tick execution, deferred switch mechanics, and real-time collision detection — built with C++ and SFML | C++, SFML, Collision Detection, Tick-Based Simulation |
+| 🧠 **[Multilayer Perceptron](https://github.com/m-ibraheem-isb/multilayer-perceptron-implementation)** | Ground-up MLP built from raw math — forward pass, backpropagation, and all optimizers implemented manually in NumPy, trained on MNIST (60k images) | Python, NumPy, Neural Networks, Backpropagation |
+| 🖼️ **[Image Filter Studio](https://github.com/m-ibraheem-isb/Image-Filter-Studio)** | Console-based C++ image processing pipeline with 10 filters, ASCII preview, user roles, and full OOP architecture — loads and saves real JPG/PNG files | C++17, OOP, Polymorphism, File I/O |
+| 🔗 **[Graph Sequence Classifier](https://github.com/m-ibraheem-isb/Descreteproject)** | Classifies city-graph traversals (Walk, Trail, Path, Circuit) using an adjacency matrix — built with zero STL containers | C++, Graph Theory, Discrete Structures |
+| 🌐 **[WeTech Community Hub](https://github.com/m-ibraheem-isb/Community-Hub)** | Fully responsive 6-page community platform built in pure HTML & CSS — dark mode, accordions, carousel, and tabs with zero JavaScript | HTML5, CSS3, Responsive Design |
 
 ---
 
@@ -71,18 +73,13 @@ class Ibrahim:
 
 <div align="center">
 
-![Total Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/m-ibraheem-isb&query=$.public_repos&label=Public+Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&logoColor=white)
-![Followers](https://img.shields.io/github/followers/m-ibraheem-isb?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&logoColor=white)
-
-![C++](https://img.shields.io/badge/Top%20Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d1117)
-![Focus](https://img.shields.io/badge/Focus-Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117)
-![University](https://img.shields.io/badge/University-FAST%20NUCES-brightgreen?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-ibraheem-isb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=m-ibraheem-isb&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-ibraheem-isb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&hide=contribs)
 
 </div>
 
@@ -94,16 +91,6 @@ class Ibrahim:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/m-ibraheem-isb/m-ibraheem-isb/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📚 Currently Learning
 
 ```
@@ -111,7 +98,7 @@ class Ibrahim:
 🔷 Machine Learning Fundamentals (Math behind it)
 🔷 Deep Learning & Neural Networks
 🔷 Low-Level Memory Management in C++
-🔷 Python for AI/ML (coming soon!)
+🔷 Python for AI/ML
 ```
 
 ---
